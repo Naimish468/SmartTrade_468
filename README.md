@@ -184,8 +184,11 @@ This project is for educational purposes. Feel free to use and modify as needed.
 
 ## 📞 Support
 
-For questions or issues, please check the code comments or create an issue in the repository.
+If you encounter any issues or have questions:
+
+Contact: 23amtics468@gmail.com
+
 
 ---
 
-**Built with ❤️ using ASP.NET Core MVC**
+**Built By Patel Naimish**
